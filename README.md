@@ -6,4 +6,3 @@ Cara menjalankan project:
   2. Masukkan operator
   3. Masukkan angka kedua
   4. Tekan enter lalu akan keluar hasil
-
